@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lemdorot/react-sneakers/static/css/main.9cb98bc2.css",
+    "main.js": "/lemdorot/react-sneakers/static/js/main.0401abdc.js",
+    "index.html": "/lemdorot/react-sneakers/index.html",
+    "main.9cb98bc2.css.map": "/lemdorot/react-sneakers/static/css/main.9cb98bc2.css.map",
+    "main.0401abdc.js.map": "/lemdorot/react-sneakers/static/js/main.0401abdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cb98bc2.css",
+    "static/js/main.0401abdc.js"
+  ]
+}
